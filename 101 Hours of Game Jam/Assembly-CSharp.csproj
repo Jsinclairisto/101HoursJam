@@ -54,8 +54,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CharacterController2D.cs" />
+     <Compile Include="Assets\Scripts\GrabScript.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-     <Compile Include="Assets\Scripts\Portal.cs" />
+     <Compile Include="Assets\Scripts\Teleport.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/ViveVR/Documents/101 Hours of Game Jam/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
